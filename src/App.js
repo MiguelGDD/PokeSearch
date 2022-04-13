@@ -82,7 +82,7 @@ export default function App() {
     align-items: center;
     display:grid;
     left: 50%;
-    top: 2%;
+    top: 1%;
     font-size: 30px;
     transform: translate(-50%, -50%);
     font-family: 'Poppins';
