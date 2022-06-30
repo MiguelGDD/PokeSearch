@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miguelgdd.github.io/PokeSearch/static/css/main.04f41baf.css",
+    "main.js": "/miguelgdd.github.io/PokeSearch/static/js/main.68754e90.js",
+    "static/js/787.16165703.chunk.js": "/miguelgdd.github.io/PokeSearch/static/js/787.16165703.chunk.js",
+    "index.html": "/miguelgdd.github.io/PokeSearch/index.html",
+    "main.04f41baf.css.map": "/miguelgdd.github.io/PokeSearch/static/css/main.04f41baf.css.map",
+    "main.68754e90.js.map": "/miguelgdd.github.io/PokeSearch/static/js/main.68754e90.js.map",
+    "787.16165703.chunk.js.map": "/miguelgdd.github.io/PokeSearch/static/js/787.16165703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f41baf.css",
+    "static/js/main.68754e90.js"
+  ]
+}
